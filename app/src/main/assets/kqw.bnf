@@ -1,0 +1,4 @@
+#BNF+IAT 1.0 UTF-8;
+!grammar kqw;
+!start <commands>;
+<commands>:接听|接听电话|挂断电话;
